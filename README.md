@@ -1,7 +1,9 @@
 ## Hi there, I'm Rudolf Preiss 👋
 
 ❕ 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐒𝐓
+<br>
 📊 SQL | Python | Power BI
+<br>
 🌍 Based in Prague
 <!--
 **rudolfpreiss6-afk/rudolfpreiss6-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
