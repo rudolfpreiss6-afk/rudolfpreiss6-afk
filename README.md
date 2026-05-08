@@ -5,14 +5,16 @@
 ‎ ‎ ‎ ‎ ‎‎‎‎   ‎  ‎ ‎‎  ‎📍Prague <br>
 ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 📧 rudolfpreiss6@gmail.com <br>
 ‎‎ ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ 📞 +(420) 727 962 657
-
+<br>
+<br>
 - 🌱 I’m currently learning everything I can about Data Analytics with emphasis on business intelligence. <br>
-   My goal is to master SQL, Power BI and Python and gain as much experience in the field as possible. <br>
+‎ ‎ ‎‎  ‎‎ ‎  ‎    My goal is to master SQL, Power BI and Python and gain as much experience in the field as possible. <br>
 - 👯 I’m looking to collaborate on absolutely anything that would allow me to dig into datasets and search for insights.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I like to play piano and wood carve in my free time 👷
 <div align="center">
 
+<br>
 <h2> Programming languages and Tools </h2>
   
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,5 +24,6 @@
 
 </div>
 
+<br>
 Check out my Projects below 👇
 
