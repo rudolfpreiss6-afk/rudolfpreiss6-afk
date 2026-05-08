@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rudolf Preiss</h1>
 <h2 align="center">📈 A Data Analyst focused on Business Intelligence</h2>
-<br></br>
+<br>
 
-📍Prague <br>
-📧 rudolfpreiss6@gmail.com <br>
-📞 +(420) 727 962 657
+‎ ‎ ‎ ‎ ‎‎‎‎   ‎  ‎ ‎‎  ‎📍Prague <br>
+‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 📧 rudolfpreiss6@gmail.com <br>
+‎‎ ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ 📞 +(420) 727 962 657
 
 - 🌱 I’m currently learning everything I can about Data Analytics with emphasis on business intelligence. <br>
    My goal is to master SQL, Power BI and Python and gain as much experience in the field as possible. <br>
