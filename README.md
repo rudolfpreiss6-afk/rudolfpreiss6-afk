@@ -1,10 +1,26 @@
-## Hi there, I'm Rudolf Preiss 👋
+<h1 align="center">Hi 👋, I'm Rudolf Preiss</h1>
+<h2 align="center">📈 A Data Analyst from Prague</h2>
+<br></br>
 
-❕ 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐒𝐓
-<br>
-📊 SQL | Python | Power BI
-<br>
-🌍 Based in Prague
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+  
+<div align="center">
+
+<h2> Programming languages and tools </h2>
+  
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+
+
 <!--
 **rudolfpreiss6-afk/rudolfpreiss6-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
