@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rudolf Preiss</h1>
-<h2 align="center">📈 A Data Analyst from Prague</h2>
+<h2 align="center">📈 A Data Analyst focused on Business Intelligence</h2>
 <br></br>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-  
+📍Prague <br>
+📧 rudolfpreiss6@gmail.com <br>
+📞 +(420) 727 962 657
+
+- 🌱 I’m currently learning everything I can about Data Analytics with emphasis on business intelligence. <br>
+   My goal is to master SQL, Power BI and Python, gain experience in the field and help companies make better data-driven decisions.
+- 👯 I’m looking to collaborate on absolutely anything that would allow me to dig into datasets and search for insights.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I like to play piano, workout and wood carve in my free time 👷
 <div align="center">
 
 <h2> Programming languages and tools </h2>
@@ -19,19 +22,5 @@
 
 </div>
 
+Check out my Projects below 👇
 
-
-<!--
-**rudolfpreiss6-afk/rudolfpreiss6-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
