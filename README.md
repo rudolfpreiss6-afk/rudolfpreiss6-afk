@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudolf Preiss</h1>
-<h2 align="center">📈 A Data Analyst focused on Business Intelligence</h2>
+<h2 align="center">📈 A Data Analyst from Prague</h2>
 <br>
 
 ‎ ‎ ‎ ‎ ‎‎‎‎   ‎  ‎ ‎‎  ‎📍Prague <br>
